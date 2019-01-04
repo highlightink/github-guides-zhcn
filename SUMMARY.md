@@ -4,7 +4,7 @@
 
 ## 理解 GitHub Flow
 
-* [理解 GitHub Flow](li-jie-github-gong-zuo-liu/untitled.md)
+* [简介](li-jie-github-gong-zuo-liu/untitled.md)
 * [创建分支](li-jie-github-gong-zuo-liu/chuang-jian-fen-zhi.md)
 * [提交更改](li-jie-github-gong-zuo-liu/ti-jiao-geng-gai.md)
 * [发起 Pull Request](li-jie-github-gong-zuo-liu/fa-qi-pull-request.md)
@@ -36,9 +36,14 @@
 
 * [Untitled](making-your-code-citable/untitled.md)
 
-## Mastering Issues
+## 精通 Issues
 
-* [Untitled](mastering-issues/untitled.md)
+* [简介](mastering-issues/untitled.md)
+* [里程碑，标签和被指派人](mastering-issues/li-cheng-bei-biao-qian-he-bei-zhi-pai-ren.md)
+* [通知，@提及 和引用](mastering-issues/tong-zhi-ti-xing-he-can-kao.md)
+* [搜索](mastering-issues/sou-suo.md)
+* [概述 & 报告](mastering-issues/gai-shu-bao-gao.md)
+* [Issues 的其他用途](mastering-issues/issues-de-qi-ta-yong-tu.md)
 
 ## Mastering Markdown
 

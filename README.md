@@ -1,6 +1,16 @@
 # GitHub 使用指南
 
-[GitHub 使用指南\(GitBook](https://octobug.gitbook.io/github-giudes)\)
+GitHub Guides 的中文版 —— [GitHub 使用指南\(GitBook\)](https://octobug.gitbook.io/github-giudes)
+
+## 0.0.2 - 2019-01-04
+
+### Added
+
+* 精通 Issues
+
+### Fixed
+
+* 补充题图
 
 ## 0.0.1 - 2019-01-03
 
