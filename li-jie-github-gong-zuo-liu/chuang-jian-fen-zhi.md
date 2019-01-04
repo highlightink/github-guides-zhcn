@@ -2,9 +2,15 @@
 
 ![](../.gitbook/assets/image.png)
 
-### 创建一个新的分支
+### 创建分支
 
-当你在进行一个项目时，你可能会在任何给定的时间里有一堆不同的功能或想法——其中一些已经准备就绪，另一些则没有。分支的存在可以帮助你管理这些工作流程。
+当你在做一个项目时，你可能会在任何时间里有一堆不同的功能或想法——其中一些已经准备就绪，另一些则没有。分支的存在可以帮助你管理这些工作流。
 
-When you create a branch in your project, you're creating an environment where you can try out new ideas. Changes you make on a branch don't affect the `master` branch, so you're free to experiment and commit changes, safe in the knowledge that your branch won't be merged until it's ready to be reviewed by someone you're collaborating with.
+在项目中创建分支时，你可以创建一个用于尝试新想法的环境。在新分支上所做的更改不会影响 `master` 分支，因此可以自由地进行实验和提交更改，完全可以放心，这个新分支直到被协作人评审后才会合并。
+
+#### 高级技巧
+
+分支是 Git 的一个核心概念，整个 GitHub Flow 也是基于分支运行的。只有一条规则：`master` 分支中的内容始终都是可部署的。
+
+因此，在处理功能或修复时，创建一个新的分支是十分重要的。分支名应该是描述性的（例如，`refactor-authentication`，`user-content-cache-key`，`make-retina-avatars`），以便其他人可以看出相应分支是在处理什么内容。
 
