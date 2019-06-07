@@ -31,9 +31,9 @@
 
 * [Untitled](fork-ta-ren-xiang-mu/untitled.md)
 
-## 多交流
+## 多多交流
 
-* [Untitled](duo-jiao-liu/untitled.md)
+* [Untitled](duo-duo-jiao-liu/untitled.md)
 
 ## Making Your Code Citable
 
