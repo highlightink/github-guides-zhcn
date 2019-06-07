@@ -1,8 +1,8 @@
 # 部署
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image-4.png)
 
-### 部署
+## 部署
 
 有了 GitHub，你可以在合并到 `master` 之前使用某分支部署，进行生产环境的最终测试。
 

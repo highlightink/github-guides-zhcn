@@ -6,7 +6,7 @@
 
 如果你想了解更多信息，请查看 [**Mastering Markdown**](http://guides.github.com/features/mastering-markdown/)。
 
-#### 通知
+## 通知
 
 [通知](https://github.com/notifications)是 GitHub 与你的 Issues 保持同步的方式。你可以使用它们来查找有关仓库的新 issues，或者只是知道某人何时需要你的输入才能继续处理 issue。
 
@@ -24,7 +24,7 @@
 
 GitHub 还同步邮件通知的已读/未读状态 —— 如果你在邮件客户端中读取通知，它将在基于 Web 的界面中（如果你喜欢此功能，请确保允许你的邮件客户端显示图片）标记为已读。
 
-#### @提及
+## @提及
 
 @提及 是我们在 GitHub Issues 中引用其他 GitHub 用户的方式。在描述或 issue 的任何评论内，提及另一个 GitHub 用户的@用户名 以向他们发送通知。这与 Twitter 使用@提及 的方式非常相似。
 
@@ -40,7 +40,7 @@ GitHub 还同步邮件通知的已读/未读状态 —— 如果你在邮件客�
 
 这将向 browser-bugs 团队的每个成员发送通知。
 
-#### 引用
+## 引用
 
 通常情况下，issues 取决于其他 issues，或者至少与它们有关，并且你希望将这两个 issues 关联起来。你可以通过输入主题标签和问题编号来引用 issues。
 
