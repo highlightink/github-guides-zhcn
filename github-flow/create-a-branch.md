@@ -10,7 +10,7 @@
 
 ### 高级技巧
 
-分支是 Git 的一个核心概念，整个 GitHub Flow 也是基于分支运行的。只有一条规则：`master` 分支中的内容始终都是可部署的。
+分支是 Git 的一个核心概念，整个 GitHub 工作流也是基于分支运作的。只有一条规则：`master` 分支中的内容始终都是可部署的。
 
 因此，在处理功能或修复时，创建一个新的分支是十分重要的。分支名应该是描述性的（例如，`refactor-authentication`，`user-content-cache-key`，`make-retina-avatars`），以便其他人可以看出相应分支是在处理什么内容。
 
