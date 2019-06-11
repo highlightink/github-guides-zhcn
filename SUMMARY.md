@@ -25,10 +25,9 @@
 ## GitHub Pages 入门
 
 * [简介](github-pages/intro.md)
+* [创建你的网站](github-pages/create-your-website.md)
 
 ## Git 手册
-
-* [Untitled](git-handbook/untitled.md)
 
 ## Fork 他人项目
 
