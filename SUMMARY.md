@@ -4,13 +4,13 @@
 
 ## 理解 GitHub 工作流
 
-* [简介](github-flow/intro.md)
-* [创建分支](github-flow/create-a-branch.md)
-* [提交更改](github-flow/add-commits.md)
-* [发起拉取请求](github-flow/open-a-pull-request.md)
-* [讨论并评审代码](github-flow/discuss-and-review.md)
-* [部署](github-flow/deploy.md)
-* [合并](github-flow/merge.md)
+* [简介](li-jie-github-gong-zuo-liu/intro.md)
+* [创建分支](li-jie-github-gong-zuo-liu/create-a-branch.md)
+* [提交更改](li-jie-github-gong-zuo-liu/add-commits.md)
+* [发起拉取请求](li-jie-github-gong-zuo-liu/open-a-pull-request.md)
+* [讨论并评审代码](li-jie-github-gong-zuo-liu/discuss-and-review.md)
+* [部署](li-jie-github-gong-zuo-liu/deploy.md)
+* [合并](li-jie-github-gong-zuo-liu/merge.md)
 
 ## Hello World
 
@@ -24,19 +24,19 @@
 
 ## GitHub Pages 入门
 
-* [Untitled](github-pages/untitled.md)
+* [简介](github-pages-ru-men/intro.md)
 
 ## Git 手册
 
-* [Untitled](git-handbook/untitled.md)
+* [Untitled](git-shou-ce/untitled.md)
 
 ## Fork 他人项目
 
-* [Untitled](forking-projects/untitled.md)
+* [Untitled](fork-ta-ren-xiang-mu/untitled.md)
 
 ## 多多交流
 
-* [Untitled](be-social/untitled.md)
+* [Untitled](duo-duo-jiao-liu/untitled.md)
 
 ## Making Your Code Citable
 
@@ -44,12 +44,12 @@
 
 ## 精通 Issues
 
-* [简介](mastering-issues/untitled.md)
-* [里程碑，标签和被指派人](mastering-issues/li-cheng-bei-biao-qian-he-bei-zhi-pai-ren.md)
-* [通知，@提及 和引用](mastering-issues/tong-zhi-ti-xing-he-can-kao.md)
-* [搜索](mastering-issues/sou-suo.md)
-* [概述 & 报告](mastering-issues/gai-shu-bao-gao.md)
-* [Issues 的其他用途](mastering-issues/issues-de-qi-ta-yong-tu.md)
+* [简介](jing-tong-issues/untitled.md)
+* [里程碑，标签和被指派人](jing-tong-issues/li-cheng-bei-biao-qian-he-bei-zhi-pai-ren.md)
+* [通知，@提及 和引用](jing-tong-issues/tong-zhi-ti-xing-he-can-kao.md)
+* [搜索](jing-tong-issues/sou-suo.md)
+* [概述 & 报告](jing-tong-issues/gai-shu-bao-gao.md)
+* [Issues 的其他用途](jing-tong-issues/issues-de-qi-ta-yong-tu.md)
 
 ## Mastering Markdown
 
@@ -57,5 +57,5 @@
 
 ## Documenting your projects on GitHub
 
-* [Untitled](documenting-projects/untitled.md)
+* [Untitled](documenting-your-projects-on-github/untitled.md)
 
