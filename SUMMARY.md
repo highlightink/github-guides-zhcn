@@ -26,10 +26,8 @@
 
 * [简介](github-pages/intro.md)
 * [创建你的网站](github-pages/create-your-website.md)
-* [做一些修改](github-pages/zuo-yi-xie-xiu-gai.md)
-* [下一步](github-pages/xia-yi-bu.md)
-
-## Git 手册
+* [做一些修改](github-pages/making-changes.md)
+* [下一步](github-pages/next-steps.md)
 
 ## Fork 他人项目
 
