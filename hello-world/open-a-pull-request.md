@@ -6,7 +6,7 @@
 
 即使是在代码完成之前提交，你也可以发起拉取请求并开始讨论。
 
-通过在拉取请求消息中使用 GitHub 的 [@提及 系统](https://itechub.gitbook.io/github-guides-zhcn/jing-tong-issues/tong-zhi-ti-xing-he-can-kao)，你可以询问特定人员或团队的反馈，无论他们是在大厅还是 10 个时区之外。
+通过在拉取请求消息中使用 GitHub 的 [@提及 系统](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar)，你可以询问特定人员或团队的反馈，无论他们是在大厅还是 10 个时区之外。
 
 你甚至可以在自己的仓库中发起拉取请求并自行合并。在开展大型项目之前，这是学习 GitHub 工作流的好方法。
 

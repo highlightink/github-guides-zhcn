@@ -29,17 +29,21 @@
 * [做一些修改](github-pages/making-changes.md)
 * [下一步](github-pages/next-steps.md)
 
+## Git 手册
+
+* [简介](git-handbook/intro.md)
+
 ## Fork 他人项目
 
-* [Untitled](forking-projects/untitled.md)
+* [简介](forking-projects/intro.md)
 
 ## 多多交流
 
-* [Untitled](be-social/untitled.md)
+* [简介](be-social/intro.md)
 
-## Making Your Code Citable
+## 使代码可引用
 
-* [Untitled](making-your-code-citable/untitled.md)
+* [简介](making-your-code-citable/intro.md)
 
 ## 精通 Issues
 
@@ -50,11 +54,11 @@
 * [概述 & 报告](mastering-issues/overviews-and-reports.md)
 * [Issues 的其他用途](mastering-issues/other-uses-for-issues.md)
 
-## Mastering Markdown
+## 精通 Markdown
 
-* [Untitled](mastering-markdown/untitled.md)
+* [简介](mastering-markdown/intro.md)
 
-## Documenting your projects on GitHub
+## 文档化项目
 
-* [Untitled](documenting-projects/untitled.md)
+* [简介](documenting-projects/intro.md)
 
