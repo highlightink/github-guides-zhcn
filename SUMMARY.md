@@ -32,6 +32,7 @@
 ## Git 手册
 
 * [简介](git-handbook/intro.md)
+* [什么是版本控制系统？](git-handbook/version-control-system.md)
 
 ## Fork 他人项目
 
