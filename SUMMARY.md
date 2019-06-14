@@ -33,6 +33,7 @@
 
 * [简介](git-handbook/intro.md)
 * [什么是版本控制系统？](git-handbook/version-control-system.md)
+* [什么是仓库？](git-handbook/repositories.md)
 
 ## Fork 他人项目
 
