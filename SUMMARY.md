@@ -34,6 +34,8 @@
 * [简介](git-handbook/intro.md)
 * [什么是版本控制系统？](git-handbook/version-control-system.md)
 * [什么是仓库？](git-handbook/repositories.md)
+* [Git 基础](git-handbook/basic-git.md)
+* [GitHub](git-handbook/github.md)
 
 ## Fork 他人项目
 
