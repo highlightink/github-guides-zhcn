@@ -119,17 +119,17 @@ git push
 1. 共享仓库
 2. [分叉](https://help.github.com/en/articles/about-forks) 与 [拉取](https://help.github.com/en/articles/about-pull-requests)
 
-With a _shared repository_, individuals and teams are explicitly designated as contributors with read, write, or administrator access. This simple permission structure, combined with features like protected branches and Marketplace, helps teams progress quickly when they adopt GitHub.
+使用_共享仓库_，个人和团队被明确指定为具有读取、写入或管理员访问权限的贡献者。这种简单的权限结构与受保护的分支和 Marketplace 等功能相结合，可以帮助团队在采用 GitHub 时快速进展。
 
-For an open source project, or for projects to which anyone can contribute, managing individual permissions can be challenging, but a _fork and pull_ model allows anyone who can view the project to contribute. A fork is a copy of a project under an developer’s personal account. Every developer has full control of their fork and is free to implement a fix or new feature. Work completed in forks is either kept separate, or is surfaced back to the original project via a pull request. There, maintainers can review the suggested changes before they’re merged. See the [Forking Projects Guide](https://guides.github.com/activities/forking/) for more information.
+对于开源项目或任何人都可以贡献的项目，管理个人权限可能具有挑战性，但是_分叉_与_拉取_模型允许任何可以查看项目的人做出贡献。分叉是开发者个人帐户下项目的副本。每个开发者都可以完全控制他们的分支，并可以自由地实现修复或新功能。在分叉中完成的工作要么保持独立，要么通过拉取请求合并回原始项目。在那里，维护人员可以在合并之前查看建议的更改。有关更多信息，请参阅 [分叉项目指南](http://itechub.gitbook.io/github-guides-zhcn/forking-projects/intro)。
 
-#### Learn at your own pace
+#### 按自己的节奏学习
 
-The GitHub team has created a library of educational videos and guides to help users continue to develop their skills and build better software.
+GitHub 团队创建了一个教育视频和指南库，以帮助用户继续充实他们的技能并构建更好的软件。
 
-* [Beginner projects to explore](https://github.com/showcases/great-for-new-contributors)
-* [GitHub video guides](https://youtube.com/githubguides)
-* [GitHub on-demand training](https://services.github.com/on-demand/)
-* [GitHub training guides](https://guides.github.com/)
-* [GitHub training resources](https://services.github.com/resources/)
+* [探索入门项目](https://github.com/showcases/great-for-new-contributors)
+* [GitHub 指引视频](https://youtube.com/githubguides)
+* [GitHub 按需学习](https://services.github.com/on-demand/)
+* [GitHub 学习指南](https://guides.github.com/)
+* [GitHub 学习资源](https://services.github.com/resources/)
 
