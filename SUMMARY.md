@@ -37,9 +37,10 @@
 * [Git 基础](git-handbook/basic-git.md)
 * [GitHub](git-handbook/github.md)
 
-## Fork 他人项目 <a id="forking-projects"></a>
+## 分叉他人项目 <a id="forking-projects"></a>
 
 * [简介](forking-projects/intro.md)
+* [为项目做贡献](forking-projects/wei-xiang-mu-zuo-gong-xian.md)
 
 ## 多多交流 <a id="be-social"></a>
 
