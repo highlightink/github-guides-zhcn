@@ -41,6 +41,8 @@
 
 * [简介](forking-projects/intro.md)
 * [为项目做贡献](forking-projects/wei-xiang-mu-zuo-gong-xian.md)
+* [分叉仓库](forking-projects/fen-cha-cang-ku.md)
+* [克隆你所分叉的项目](forking-projects/clone-your-fork.md)
 
 ## 多多交流 <a id="be-social"></a>
 

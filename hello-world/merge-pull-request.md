@@ -6,7 +6,9 @@
 2. 单击 **Confirm merge**。
 3. 分支的更改合并后即可点击紫色块中的 **Delete branch** 按钮。
 
-![merge](https://guides.github.com/activities/hello-world/merge-button.png)![delete](https://guides.github.com/activities/hello-world/delete-button.png)
+![&#x5408;&#x5E76;](https://guides.github.com/activities/hello-world/merge-button.png)
+
+![&#x5220;&#x9664;](../.gitbook/assets/image%20%281%29.png)
 
 #### 庆祝一下！
 

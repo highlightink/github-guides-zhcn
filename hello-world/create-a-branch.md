@@ -12,7 +12,7 @@
 * 一个叫做 `feature`（因为我们在此分支上“开发功能”）的分支
 * `feature` 在合并到 `master` 之前所经历的旅程
 
-![&#x5206;&#x652F;&#x521B;&#x5EFA;&#x4E8E;&#x5408;&#x5E76;](https://guides.github.com/activities/hello-world/branching.png)
+![&#x5206;&#x652F;&#x521B;&#x5EFA;&#x4E0E;&#x5408;&#x5E76;](https://guides.github.com/activities/hello-world/branching.png)
 
 Have you ever saved different versions of a file? Something like:
 
