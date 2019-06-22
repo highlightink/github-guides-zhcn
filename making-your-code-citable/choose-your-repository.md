@@ -1,10 +1,8 @@
-# Choose your repository
+# 选择你的仓库
 
-
-
-Repositories are the most basic element of GitHub. They’re easiest to imagine as your project’s folder. The first step in creating a DOI is to select the repository you want to archive in Zenodo. To do so, head over to your profile and click the **Repositories** tab.
+仓库是 GitHub 最基本的元素。它们最容易被想象为你项目的文件夹。创建 DOI 的第一步是选择要在 Zenodo 中存档的仓库。 为此，请转到你的个人主页，然后单击 **Repositories** 选项卡。
 
 ![&#x767B;&#x5F55;](https://guides.github.com/activities/citable-code/repos.png)
 
-> **Important!** Make sure you tell people how they can reuse your work by including a license in your repository. If you don’t know which license is right for you, then take a look at [choosealicense.com](http://choosealicense.com/).
+> **重要信息！**确保通过在仓库中包含许可证来告诉人们如何重用你的工作成果。 如果你不知道哪种许可证适合你，请查看 [choosealicense.com](http://choosealicense.com/)。
 

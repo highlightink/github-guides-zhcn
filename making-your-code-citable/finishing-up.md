@@ -1,8 +1,8 @@
-# Finishing up
+# 即将完成
 
-Back on your [Zenodo GitHub page](https://zenodo.org/account/settings/github) you should now see your repository listed with a shiny new badge showing your new DOI!
+回到你的 [Zenodo GitHub 页面](https://zenodo.org/account/settings/github)，你现在应该看到你的仓库中列有一个闪亮的新徽章，显示你的新 DOI！
 
-> **ProTip:** If you really want to show off, then right click on the gray and blue DOI image and copy the URL and place it in your README on your GitHub repo.
+> **高级提示：**如果你真的想炫耀，请右击有着灰色和蓝色的 DOI 图片，复制其 URL 并将其放在 GitHub 仓库的 README 中。
 
-![releases-present](https://guides.github.com/activities/citable-code/releases-present.png)
+![&#x5F53;&#x524D;&#x53D1;&#x5E03;](https://guides.github.com/activities/citable-code/releases-present.png)
 

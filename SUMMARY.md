@@ -56,12 +56,12 @@
 ## 使代码可引用 <a id="making-your-code-citable"></a>
 
 * [简介](making-your-code-citable/intro.md)
-* [Choose your repository](making-your-code-citable/choose-your-repository.md)
+* [选择你的仓库](making-your-code-citable/choose-your-repository.md)
 * [Login to Zenodo](making-your-code-citable/login-to-zenodo.md)
-* [Check repository settings](making-your-code-citable/check-repository-settings.md)
+* [查看仓库设置](making-your-code-citable/check-repo-settings.md)
 * [Create a new release](making-your-code-citable/create-a-new-release.md)
-* [Minting a DOI](making-your-code-citable/minting-a-doi.md)
-* [Finishing up](making-your-code-citable/finishing-up.md)
+* [创建 DOI](making-your-code-citable/minting-a-doi.md)
+* [即将完成](making-your-code-citable/finishing-up.md)
 
 ## 精通 Issues <a id="mastering-issues"></a>
 
@@ -75,8 +75,18 @@
 ## 精通 Markdown <a id="mastering-markdown"></a>
 
 * [简介](mastering-markdown/intro.md)
+* [什么是 Markdown?](mastering-markdown/what-is-markdown.md)
+* [Examples](mastering-markdown/examples.md)
+* [Syntax guide](mastering-markdown/syntax-guide.md)
+* [GitHub Flavored Markdown](mastering-markdown/gfm.md)
 
-## 文档化项目 <a id="documenting-projects"></a>
+## 项目文档化 <a id="documenting-projects"></a>
 
 * [简介](documenting-projects/intro.md)
+* [创建你的 README](documenting-projects/creating-your-readme.md)
+* [Formatting your README](documenting-projects/formatting-your-readme.md)
+* [创建你的 wiki](documenting-projects/creating-your-wiki.md)
+* [Adding content](documenting-projects/adding-content.md)
+* [Adding pages](documenting-projects/adding-pages.md)
+* [Syntax highlighting](documenting-projects/syntax-highlighting.md)
 

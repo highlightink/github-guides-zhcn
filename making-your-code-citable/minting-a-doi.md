@@ -1,8 +1,8 @@
-# Minting a DOI
+# 创建 DOI
 
-Before Zenodo can issue a DOI for your repository, you will need to provide some information about the GitHub repo that you’ve just archived.
+在 Zenodo 为你的仓库发布 DOI 之前，你需要提供刚刚存档的 GitHub 仓库的信息。
 
-Once you’re happy with the description of your software, click the **Publish** button at the bottom of the Zenodo form, and voilà, you’ve just made a new DOI for your GitHub repository!
+一旦你对软件的描述感到满意，请单击 Zenodo 表单底部的 **Publish** 按钮，于是，你刚刚为你的 GitHub 仓库创建了一个新的 DOI！
 
-![form](https://guides.github.com/activities/citable-code/zenodo-form.png)
+![&#x8868;&#x5355;](https://guides.github.com/activities/citable-code/zenodo-form.png)
 
