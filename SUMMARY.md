@@ -84,9 +84,9 @@
 
 * [简介](documenting-projects/intro.md)
 * [创建你的 README](documenting-projects/creating-your-readme.md)
-* [Formatting your README](documenting-projects/formatting-your-readme.md)
+* [格式化你的 README](documenting-projects/formatting-your-readme.md)
 * [创建你的 wiki](documenting-projects/creating-your-wiki.md)
 * [添加内容](documenting-projects/adding-content.md)
 * [添加页面](documenting-projects/adding-pages.md)
-* [Syntax highlighting](documenting-projects/syntax-highlighting.md)
+* [语法高亮](documenting-projects/syntax-highlighting.md)
 

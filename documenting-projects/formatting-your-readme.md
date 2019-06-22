@@ -1,15 +1,15 @@
-# Formatting your README
+# 格式化你的 README
 
-READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
+README 文件通常遵循一种格式，以便尽快将开发人员定位到项目最重要的地方。
 
-* **Project name**: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-* **Description**: A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
-* **Table of Contents**: Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
-* **Installation**: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
-* **Usage**: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-* **Contributing**: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for [setting guidelines for repository contributors](https://help.github.com/articles/setting-guidelines-for-repository-contributors/).
-* **Credits**: Include a section for credits in order to highlight and link to the authors of your project.
-* **License**: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s [licensing guide](http://choosealicense.com/)!
+* **项目名称**：你项目的名称是人们在向下滚动到 README 时会看到的第一件事，它是在创建 README 文件时被包含在内的。
+* **描述**：接着就是你项目的描述。一个好的描述具备清楚、简短以及有重点等特点。它描述项目的重要性及其作用。
+* **目录**：可选地，包括目录以允许他人快速导航特别长或特别详细的 README 文件。
+* **安装**：安装是高效的 README 文件的下一部分。它告诉其他用户如何在本地安装项目。可选地，包含一个 gif 图片，以使其他人更清楚。
+* **用法**：下一部分是用法，你可以在其中指导其他人在安装项目后如何使用你的项目。这也是一个包含项目截图的好地方。
+* **贡献**：较大的项目通常有关于为其项目做贡献的部分，其中概述了贡献说明。有时，这是一个单独的文件。如果你有特定的贡献偏好，请解释它们，以便其他开发人员知道如何最好地为你的工作做出贡献。要了解更多有关如何帮助其他人贡献的信息，请查看为 [仓库贡献者设置指南](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) 的指南。
+* **信用**：包括一个信用部分，以突出显示并链接到该项目的作者。
+* **许可证**：最后，包含项目许可证的部分。有关选择许可证的更多信息，请查看 GitHub 的 [许可证指南](http://choosealicense.com/)！
 
-Your README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis, outlined below.
+你的 README 文件应仅包含开发者开始使用和为你的项目做出贡献的必要信息。更长的文档适合使用 wiki，如下节所述。
 
