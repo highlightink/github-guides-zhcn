@@ -4,6 +4,8 @@
 
 [GitHub Guides](https://guides.github.com/) 的中文版 —— [GitHub 使用指南\(GitBook\)](https://itechub.gitbook.io/github-guides-zhcn/)
 
+[&gt;&gt; GitHub 用户点此进入 GitBook 开始阅读 &lt;&lt;](https://itechub.gitbook.io/github-guides-zhcn)
+
 ## 参与翻译
 
 本书发布在 [GitBook](https://itechub.gitbook.io/github-guides-zhcn)，你可以访问 [github-guides-zhcn \(GitHub\)](https://github.com/itechub/github-guides-zhcn) 参与翻译，帮助我们修正翻译错误。

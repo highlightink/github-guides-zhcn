@@ -1,10 +1,10 @@
-# Adding content
+# 添加内容
 
-Wiki content is designed to be easily editable. You can add or change content on any wiki page by clicking the **Edit** button located in the upper right corner of each page. This opens up the wiki editor.
+Wiki 内容旨在轻松编辑。你可以在任何 wiki 页面通过单击右上角的 **Edit** 按钮来添加或更改内容。这可以打开 wiki 编辑器。
 
-![Screenshot of the wiki editor](https://guides.github.com/features/wikis/wiki-editor.png)
+![wiki &#x7F16;&#x8F91;&#x5668;&#x622A;&#x56FE;](https://guides.github.com/features/wikis/wiki-editor.png)
 
-Wiki pages can be written in any format supported by [GitHub Markup](http://github.com/github/markup). Using the drop-down menu in the editor, you can select the format of your wiki, and then use wiki toolbar to create and include content on a page. Wikis also give you the option of including a custom footer where you can list things like contact details or license information for your project.
+Wiki 页面可以用 [GitHub 标记](http://github.com/github/markup) 支持的任何格式编写。使用编辑器中的下拉菜单，你可以选择 wiki 的格式，然后使用 wiki 工具栏在页面上创建和编写内容。Wikis 还为你提供了包含自定义页脚的选项，你可以在其中列出项目的联系人详细信息或许可证信息。
 
-GitHub keeps track of changes made to each page in your wiki. Below a page title, you can see who made the most recent edits, in addition to the number of commits made to the page. Clicking on this information will take you to the full page history where you can compare revisions or see a detailed list of edits over time.
+GitHub 会跟踪 wiki 中每个页面所做的更改。在页面标题下方，除了对页面进行提交的数量外，你还可以看到谁进行了最新的编辑。单击此信息将转到完整的页面历史记录，你可以在其中比较修订版本或查看详细的编辑列表。
 
