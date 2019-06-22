@@ -1,112 +1,106 @@
-# Examples
+# 例子
 
-#### Text
-
-
+#### 文本
 
 ```text
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+使用 Markdown 可以很容易地给一些文字设置**粗体**，其他文字设置*斜体*。你甚至可以 [链接到谷歌](http://google.com)！
 ```
 
-It's very easy to make some words **bold** and other words _italic_ with Markdown. You can even [link to Google!](http://google.com/)
+使用 Markdown 可以很容易地给一些文字设置**粗体**，其他文字设置_斜体_。你甚至可以 [链接到谷歌](http://google.com)！
 
-#### Lists
+#### 列表
 
 ```text
-Sometimes you want numbered lists:
+有时你想要有序列表：
 
-1. One
-2. Two
-3. Three
+1. 一
+2. 二
+3. 三
 
-Sometimes you want bullet points:
+有时你想要突出要点：
 
-* Start a line with a star
-* Profit!
+* 使用星号开始一行
+* 利润！
 
-Alternatively,
+或者，
 
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+- 横杠也是可以的
+- 如果还有下一级，在横杠或星号前输入两个空格：
+  - 像这样
+  - 还有这样
 ```
 
-Sometimes you want numbered lists:
+有时你想要有序列表：
 
-1. One
-2. Two
-3. Three
+1. 一
+2. 二
+3. 三
 
-Sometimes you want bullet points:
+有时你想要突出要点：
 
-* Start a line with a star
-* Profit!
+* 使用星号开始一行
+* 利润！
 
-Alternatively,
+或者，
 
-* Dashes work just as well
-* And if you have sub points, put two spaces before the dash or star:
-  * Like this
-  * And this
+* 横杠也是可以的
+* 如果还有下一级，在横杠或星号前输入两个空格：
+  * 像这样
+  * 还有这样
 
-#### Images
-
-
+#### 图片
 
 ```text
-If you want to embed images, this is how you do it:
+如果你想嵌入图片，可以这样做：
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
-If you want to embed images, this is how you do it:
+如果你想嵌入图片，可以这样做：
 
-![Image of Yakotocat](https://octodex.github.com/images/yaktocat.png)
+![Yakotocat](https://octodex.github.com/images/yaktocat.png)
 
-#### Header & Quotes
-
-
+#### 标题 & 引用
 
 ```text
-# Structured documents
+# 结构化文档
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+有时，使用不同级别的标题来组织文档是很有用的。用 `#` 开始作为标题。连续多个 `##` 表示较小的标题。
 
-### This is a third-tier heading
+### 这是一个三级标题
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+你可以使用 `#` 到 `######` 六种不同大小的标题。
 
-If you'd like to quote someone, use the > character before the line:
+如果你想要引用他人的文字，使用 > 开头：
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> 咖啡。有史以来最好的有机悬浮液……我用它击败了 Borg。
+> ——Janeway 船长
 ```
 
-## Structured documents
+## 结构化文档
 
-Sometimes it’s useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+有时，使用不同级别的标题来组织文档是很有用的。用 `#` 开始作为标题。连续多个 `##` 表示较小的标题。
 
-#### This is a third-tier heading
+#### 这是一个三级标题
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+你可以使用 `#` 到 `######` 六种不同大小的标题。
 
-If you’d like to quote someone, use the &gt; character before the line:
+如果你想要引用他人的文字，使用 &gt; 开头：
 
-> Coffee. The finest organic suspension ever devised… I beat the Borg with it. - Captain Janeway
+> 咖啡。有史以来最好的有机悬浮液……我用它击败了 Borg。
+>
+> ——Janeway 船长
 
-#### Code
-
-
+#### 代码
 
 ```text
-There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+使用 GitHub 的 markdown 来装饰代码的方式有很多种。如果你有行内代码，请用反引号包住它们：`var example = true`。如果你有一个更长的代码块，你可以缩进四个空格：
 
     if (isAwesome){
       return true
     }
 
-GitHub also supports something called code fencing, which allows for multiple lines without indentation:
+GitHub 还支持称为代码防护的东西，它允许多行而不缩进：
 
 ```
 if (isAwesome){
@@ -114,7 +108,7 @@ if (isAwesome){
 }
 ```
 
-And if you'd like to use syntax highlighting, include the language:
+如果你想使用语法高亮，则写上语言类型：
 
 ```javascript
 if (isAwesome){
@@ -123,7 +117,7 @@ if (isAwesome){
 ```
 ```
 
-There are many different ways to style code with GitHub’s markdown. If you have inline code blocks, wrap them in backticks: `var example = true`. If you’ve got a longer block of code, you can indent with four spaces:
+使用 GitHub 的 markdown 来装饰代码的方式有很多种。如果你有行内代码，请用反引号包住它们：`var example = true`。如果你有一个更长的代码块，你可以缩进四个空格：
 
 ```text
 if (isAwesome){
@@ -131,7 +125,7 @@ if (isAwesome){
 }
 ```
 
-GitHub also supports something called code fencing, which allows for multiple lines without indentation:
+GitHub 还支持称为代码防护的东西，它允许多行而不缩进：
 
 ```text
 if (isAwesome){
@@ -139,7 +133,7 @@ if (isAwesome){
 }
 ```
 
-And if you’d like to use syntax highlighting, include the language:
+如果你想使用语法高亮，则写上语言类型：
 
 ```text
 if (isAwesome){
@@ -147,31 +141,29 @@ if (isAwesome){
 }
 ```
 
-#### Extras
-
-
+#### 其他
 
 ```text
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+GitHub 支持 Markdown 中的许多额外功能，可以帮助你引用链接别人。如果你想对某人发表评论，你可以在他们的名字前加上@符号：嘿@kneath ——你的毛衣不错！
 
-But I have to admit, tasks lists are my favorite:
+我必须承认，待办事项是我最喜欢的：
 
-- [x] This is a complete item
-- [ ] This is an incomplete item
+- [x] 这是已完成的事项
+- [ ] 这是未完成的事项
 
-When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
+当你在 Issue 的第一条评论中包含任务列表时，你会在任务列表中看到一个有用的进度条。它也适用于拉取请求！
 
-And, of course emoji!
+当然，emoji 也是支持的！
 ```
 
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey [@kneath](https://github.com/kneath) — love your sweater!
+GitHub 支持 Markdown 中的许多额外功能，可以帮助你引用链接别人。如果你想对某人发表评论，你可以在他们的名字前加上@符号：嘿[@kneath](https://github.com/kneath) ——你的毛衣不错！
 
-But I have to admit, tasks lists are my favorite:
+我必须承认，待办事项是我最喜欢的：
 
-*  This is a complete item
-*  This is an incomplete item
+* [x] 这是已完成的事项
+* [ ] 这是未完成的事项
 
-When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
+当你在 Issue 的第一条评论中包含任务列表时，你会在任务列表中看到一个有用的进度条。它也适用于拉取请求！
 
-And, of course emoji!
+当然，emoji 也是支持的！
 

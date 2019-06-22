@@ -5,21 +5,21 @@
 #### 标题
 
 ```text
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# 这是一个 <h1> 标签
+## 这是一个 <h2> 标签
+###### 这是一个 <h6> 标签
 ```
 
 #### 强调
 
 ```text
-*This text will be italic*
-_This will also be italic_
+*这行字将会是斜体*
+_这行字将会是斜体_
 
-**This text will be bold**
-__This will also be bold__
+**这行字将会是粗体**
+__这行字将会是粗体__
 
-_You **can** combine them_
+_你**可以**组合它们_
 ```
 
 #### 列表
@@ -27,27 +27,27 @@ _You **can** combine them_
 **无序**
 
 ```text
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* 项目 1
+* 项目 2
+  * 项目 2a
+  * 项目 2b
 ```
 
 **有序**
 
 ```text
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. 项目 1
+1. 项目 2
+1. 项目 3
+   1. 项目 3a
+   1. 项目 3b
 ```
 
 #### 图片
 
 ```text
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+格式：![Alt Text](url)
 ```
 
 #### 链接
@@ -60,16 +60,15 @@ http://github.com - automatic!
 #### 引用
 
 ```text
-As Kanye West said:
+如 Kanye West 所说：
 
-> We're living the future so
-> the present is our past.
+> 我们活在未来
+> 那么当下即是过去
 ```
 
 #### 行内代码
 
 ```text
-I think you should use an
-`<addr>` element here instead.
+我认为你这里应该使用 `<addr>` 元素代替。
 ```
 

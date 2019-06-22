@@ -76,9 +76,9 @@
 
 * [简介](mastering-markdown/intro.md)
 * [什么是 Markdown?](mastering-markdown/what-is-markdown.md)
-* [Examples](mastering-markdown/examples.md)
+* [例子](mastering-markdown/examples.md)
 * [语法指南](mastering-markdown/syntax-guide.md)
-* [GitHub Flavored Markdown](mastering-markdown/gfm.md)
+* [GitHub 风味 Markdown](mastering-markdown/gfm.md)
 
 ## 项目文档化 <a id="documenting-projects"></a>
 

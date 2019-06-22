@@ -1,12 +1,12 @@
-# GitHub Flavored Markdown
+# GitHub 风味 Markdown
 
-GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+GitHub.com 使用自己版本的 Markdown 语法，该语法提供了一组额外的有用功能，其中许多功能可以更轻松地使用 GitHub.com 上的内容。
 
-Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
+注意，GitHub 风味 Markdown 的某些功能仅在 Issues 和拉取请求的说明和注释中提供。这些包括@提及以及对 SHA-1 哈希、Issues 和拉取请求的引用。任务列表也可以在 Gist 评论和 Gist Markdown 文件中使用。
 
-#### Syntax highlighting
+#### 语法高亮
 
-Here’s an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/):
+以下是如何使用 [GitHub 风味 Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 进行语法高亮的示例：
 
 ```text
 ```javascript
@@ -18,7 +18,7 @@ function fancyAlert(arg) {
 ```
 ```
 
-You can also simply indent your code by four spaces:
+你还可以简单地将代码缩进四个空格：
 
 ```text
     function fancyAlert(arg) {
@@ -28,7 +28,7 @@ You can also simply indent your code by four spaces:
     }
 ```
 
-Here’s an example of Python code without syntax highlighting:
+以下是没有语法高亮的 Python 代码示例：
 
 ```text
 def foo():
@@ -36,38 +36,38 @@ def foo():
         return True
 ```
 
-#### Task Lists
+#### 任务列表
 
 ```text
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] 支持@提及、#引用、[链接]()、**格式化**、和 <del>标签</del>
+- [x] 需要列表语法（支持任何无序或有序列表）
+- [x] 这是一个已完成事项
+- [ ] 这是一个未完成事项
 ```
 
-If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
+如果你在 Issue 的第一条评论中包含任务列表，你将在问题列表中获得一个方便的进度指示器。 它也适用于拉取请求！
 
-#### Tables
+#### 表格
 
-You can create tables by assembling a list of words and dividing them with hyphens `-` \(for the first row\), and then separating each column with a pipe `|`:
+你可以通过组合单词列表并用连字符 `-` 分隔（第一行），然后用管道符 `|` 分隔每个列创建表格：
 
 ```text
-First Header | Second Header
+标题一 | 标题二
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+第一格内容 | 第二格内容
+第一列内容 | 第二列内容
 ```
 
-Would become:
+会变成：
 
-| First Header | Second Header |
+| 标题一 | 标题二 |
 | :--- | :--- |
-| Content from cell 1 | Content from cell 2 |
-| Content in the first column | Content in the second column |
+| 第一格内容 | 第二格内容 |
+| 第一列内容 | 第二列内容 |
 
-#### SHA references
+#### SHA 引用
 
-Any reference to a commit’s [SHA-1 hash](http://en.wikipedia.org/wiki/SHA-1) will be automatically converted into a link to that commit on GitHub.
+对提交的 [SHA-1 哈希](http://en.wikipedia.org/wiki/SHA-1) 的任何引用都将自动转换为 GitHub 上对应提交的链接。
 
 ```text
 16c999e8c71134401a78d4d46435517b2271d6ac
@@ -75,9 +75,9 @@ mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ```
 
-#### Issue references within a repository
+#### 仓库内引用 Issue
 
-Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+任何引用 Issue 或拉取请求的编号都将自动转换为链接。
 
 ```text
 #1
@@ -85,21 +85,21 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 ```
 
-#### Username @mentions
+#### 用户名 @提及
 
-Typing an `@` symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re _mentioning_the individual. You can also @mention teams within an organization.
+输入 `@` 符，后跟用户名，将通知该用户来查看评论。这被称为“@提及”，因为你_提及_了某个人。你还可以在组织内@提及团队。
 
-#### Automatic linking for URLs
+#### 自动链接 URLs
 
-Any URL \(like `http://www.github.com/`\) will be automatically converted into a clickable link.
+任何 URL（如 `http://www.github.com/`）都将自动转换为可点击的链接。
 
-#### Strikethrough
+#### 删除线
 
-Any word wrapped with two tildes \(like `~~this~~`\) will appear crossed out.
+用两个波浪号包裹的任何单词（比如 `~~这个~~`）都会显示出删除线。
 
 #### Emoji
 
-GitHub supports [emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)!
+GitHub 支持 [emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)！
 
-To see a list of every image we support, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+要查看我们支持的所有图片的列表，请查看 [Emoji 速查表](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)。
 
