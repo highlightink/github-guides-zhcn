@@ -1,37 +1,35 @@
 # 你可以做更多的事情
 
+你已经完成了 GitHub 提供的一些最基本的社交互动，但不要就此止步！看看其他社交功能：
 
+**观星**
 
-You’ve done some of the most basic social interaction GitHub has to offer, but don’t stop there! Check out these other social features:
-
-**Stargazing**
-
-If you’re interested in some of the repositories your friends have starred in the past, but you no longer see it on your dashboard, head over to your [stars page](https://github.com/stars)and jump to another user!
+如果你对朋友过去曾加星的某些仓库感兴趣，但你不再在仪表板上看到它，请转到你的 [星标页面](https://github.com/stars) 并跳转到其他用户！
 
 ![&#x8F6C;&#x5230;&#x5176;&#x4ED6;&#x7528;&#x6237;&#x4E3B;&#x9875;](https://guides.github.com/activities/socialize/jump-to-another-user.png)
 
-**Discover Repositories**
+**发现仓库**
 
-After you’ve watched, followed, and starred your favorite people and repositories on GitHub, head over to your [Discover Repositories](https://github.com/dashboard/discover) page to see personalized repository recommendations based on these things!
+在你查看、关注并在 GitHub 上为你喜欢的人和仓库加星后，请转到你的 [发现仓库](https://github.com/dashboard/discover) 页面，根据这些内容查看个性化仓库建议！
 
-**Explore / Newsletter**
+**探索 / 时事通讯**
 
-The Explore page has repositories that have been starred by people you follow, GitHub staff, and general trending repositories right on the first page.
+“探索”页面包含由你关注的用户、GitHub 员工的加星项目以及常规趋势第一页上的仓库。
 
-If you want to receive these as a newsletter daily, weekly, or monthly, check out the newsletter announcement at the bottom of the Explore page.
+如果你希望每天、每周或每月收到这些简报，请查看“探索”页面底部的简报声明。
 
 ![&#x65F6;&#x4E8B;&#x901A;&#x8BAF;](https://guides.github.com/activities/socialize/subscribe-explore.png)
 
-You can also configure this setting later at [the subscription page](https://github.com/explore/subscribe).
+你稍后还可以在 [订阅页面](https://github.com/explore/subscribe) 配置这项设置。
 
-If you want to view just trending repositories and users, [head over to Trending](https://github.com/trending)and take a look.
+如果你只想查看趋势仓库和用户，请 [转到趋势](https://github.com/trending)。
 
 ![&#x8D8B;&#x52BF;](https://guides.github.com/activities/socialize/trending.png)
 
-### Celebrate
+### 庆祝
 
-Congratulations! You are quite the socialite. Check out some of these next steps:
+恭喜！你现在社交小王子了。看看接下来做些什么：
 
-* [Getting your project on GitHub](https://help.github.com/categories/importing-your-projects-to-github/)
-* [Fork A Repository](https://guides.github.com/activities/forking/)
+* [从 GitHub 获取你的项目](https://help.github.com/categories/importing-your-projects-to-github/)
+* [分叉他人项目](https://itechub.gitbook.io/github-guides-zhcn/forking-projects)
 
