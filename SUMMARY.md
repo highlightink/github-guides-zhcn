@@ -40,8 +40,8 @@
 ## 分叉他人项目 <a id="forking-projects"></a>
 
 * [简介](forking-projects/intro.md)
-* [为项目做贡献](forking-projects/wei-xiang-mu-zuo-gong-xian.md)
-* [分叉仓库](forking-projects/fen-cha-cang-ku.md)
+* [为项目做贡献](forking-projects/contributing-to-a-project.md)
+* [分叉仓库](forking-projects/fork-the-repository.md)
 * [克隆你所分叉的项目](forking-projects/clone-your-fork.md)
 * [修改并推送](forking-projects/making-and-pushing-changes.md)
 * [发起拉取请求](forking-projects/making-a-pull-request.md)
@@ -49,9 +49,9 @@
 ## 多多社交 <a id="be-social"></a>
 
 * [简介](be-social/intro.md)
-* [关注一个朋友](be-social/guan-zhu-yi-ge-peng-you.md)
-* [查看一个项目仓库](be-social/cha-kan-yi-ge-xiang-mu-cang-ku.md)
-* [你可以做更多的事情](be-social/ni-ke-yi-zuo-geng-duo-de-shi-qing.md)
+* [关注一个朋友](be-social/follow-a-friend.md)
+* [查看一个项目仓库](be-social/watch-a-project.md)
+* [你可以做更多的事情](be-social/more-things-you-can-do.md)
 
 ## 使代码可引用 <a id="making-your-code-citable"></a>
 
