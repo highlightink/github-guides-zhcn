@@ -46,13 +46,22 @@
 * [修改并推送](forking-projects/making-and-pushing-changes.md)
 * [发起拉取请求](forking-projects/making-a-pull-request.md)
 
-## 多多交流 <a id="be-social"></a>
+## 多多社交 <a id="be-social"></a>
 
 * [简介](be-social/intro.md)
+* [关注一个朋友](be-social/guan-zhu-yi-ge-peng-you.md)
+* [查看一个项目仓库](be-social/cha-kan-yi-ge-xiang-mu-cang-ku.md)
+* [你可以做更多的事情](be-social/ni-ke-yi-zuo-geng-duo-de-shi-qing.md)
 
 ## 使代码可引用 <a id="making-your-code-citable"></a>
 
 * [简介](making-your-code-citable/intro.md)
+* [Choose your repository](making-your-code-citable/choose-your-repository.md)
+* [Login to Zenodo](making-your-code-citable/login-to-zenodo.md)
+* [Check repository settings](making-your-code-citable/check-repository-settings.md)
+* [Create a new release](making-your-code-citable/create-a-new-release.md)
+* [Minting a DOI](making-your-code-citable/minting-a-doi.md)
+* [Finishing up](making-your-code-citable/finishing-up.md)
 
 ## 精通 Issues <a id="mastering-issues"></a>
 
