@@ -1,5 +1,7 @@
 # Git 基础
 
+> 译自 [_Git Handbook - Basic Git commands_](https://guides.github.com/introduction/git-handbook/#basic-git)
+
 #### Git 基础命令
 
 要使用 Git，开发者用特定命令来复制、创建、更改和组合代码。这些命令可以直接从命令行执行，也可以使用 [GitHub 桌面版](https://desktop.github.com/) 或 Git Kraken 等应用程序执行。以下是一些使用 Git 的常用命令：
