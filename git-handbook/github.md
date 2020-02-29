@@ -119,11 +119,11 @@ git push
 人们在 GitHub 上合作主要有两种方式：
 
 1. 共享仓库
-2. [分叉](https://help.github.com/en/articles/about-forks) 与 [拉取](https://help.github.com/en/articles/about-pull-requests)
+2. [复刻](https://help.github.com/en/articles/about-forks) 与 [拉取](https://help.github.com/en/articles/about-pull-requests)
 
 使用_共享仓库_，个人和团队被明确指定为具有读取、写入或管理员访问权限的贡献者。这种简单的权限结构与受保护的分支和 Marketplace 等功能相结合，可以帮助团队在采用 GitHub 时快速进展。
 
-对于开源项目或任何人都可以贡献的项目，管理个人权限可能具有挑战性，但是_分叉_与_拉取_模型允许任何可以查看项目的人做出贡献。分叉是开发者个人帐户下项目的副本。每个开发者都可以完全控制他们的分支，并可以自由地实现修复或新功能。在分叉中完成的工作要么保持独立，要么通过拉取请求合并回原始项目。在那里，维护人员可以在合并之前查看建议的更改。有关更多信息，请参阅 [分叉项目指南](http://itechub.gitbook.io/github-guides-zhcn/forking-projects/intro)。
+对于开源项目或任何人都可以贡献的项目，管理个人权限可能具有挑战性，但是_复刻_与_拉取_模型允许任何可以查看项目的人做出贡献。复刻是开发者个人帐户下项目的副本。每个开发者都可以完全控制他们的分支，并可以自由地实现修复或新功能。在复刻中完成的工作要么保持独立，要么通过拉取请求合并回原始项目。在那里，维护人员可以在合并之前查看建议的更改。有关更多信息，请参阅 [复刻项目指南](http://itechub.gitbook.io/github-guides-zhcn/forking-projects/intro)。
 
 #### 按自己的节奏学习
 

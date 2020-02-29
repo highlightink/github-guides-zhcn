@@ -31,5 +31,5 @@
 恭喜！你现在社交小王子了。看看接下来做些什么：
 
 * [从 GitHub 获取你的项目](https://help.github.com/categories/importing-your-projects-to-github/)
-* [分叉他人项目](https://itechub.gitbook.io/github-guides-zhcn/forking-projects)
+* [复刻他人项目](https://itechub.gitbook.io/github-guides-zhcn/forking-projects)
 

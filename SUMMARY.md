@@ -37,12 +37,12 @@
 * [Git 基础](git-handbook/basic-git.md)
 * [GitHub](git-handbook/github.md)
 
-## 分叉他人项目 <a id="forking-projects"></a>
+## 复刻他人项目 <a id="forking-projects"></a>
 
 * [简介](forking-projects/intro.md)
 * [为项目做贡献](forking-projects/contributing-to-a-project.md)
-* [分叉仓库](forking-projects/fork-the-repository.md)
-* [克隆你所分叉的项目](forking-projects/clone-your-fork.md)
+* [复刻仓库](forking-projects/fork-the-repository.md)
+* [克隆你所复刻的项目](forking-projects/clone-your-fork.md)
 * [修改并推送](forking-projects/making-and-pushing-changes.md)
 * [发起拉取请求](forking-projects/making-a-pull-request.md)
 
