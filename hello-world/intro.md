@@ -4,7 +4,7 @@ description: 阅读时间：约 10 分钟
 
 # 简介
 
-> 译自：[_Hello World - Intro_](https://guides.github.com/activities/hello-world/#intro)\_\_
+> _译自 [Hello World](https://guides.github.com/activities/hello-world/)_
 
 **Hello World** 项目是计算机编程中历史悠久的传统。这个简单的练习可以让你在学习新东西时快速入门。让我们开始使用 GitHub！
 

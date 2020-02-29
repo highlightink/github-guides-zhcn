@@ -1,7 +1,5 @@
 # GitHub
 
-> 译自 [_Git Handbook - GitHub_](https://guides.github.com/introduction/git-handbook/#github)
-
 #### GitHub 是如何融入 Git 的
 
 GitHub 是一个 Git 托管仓库，它为开发人员提供工具，通过命令行功能、issues（线程化的讨论流程）、拉取请求、代码审查或在 GitHub 集市中使用一系列免费和收费应用程序来造就更好的代码。通过 GitHub 工作流等协作方式，拥有 1500 万开发者的社区以及拥有数百个集成功能的生态系统，GitHub 改变了软件的构建方式。

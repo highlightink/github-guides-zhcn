@@ -4,6 +4,8 @@ description: 阅读时间：约 10 分钟
 
 # 简介
 
+> _译自 [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)_
+
 良好的文档是任何项目成功的关键。使文档可访问让人们能够了解项目；使更新变得容易以确保文档贴近项目。
 
 项目文档的两种常用组织方法是 _README 文件_和 _wikis_：

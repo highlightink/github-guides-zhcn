@@ -4,6 +4,8 @@ description: 阅读时间：约 3 分钟
 
 # 简介
 
+> _译自 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)_
+
 Markdown 是一种轻量级且易用的语法，用于在 GitHub 平台上设置所有形式的书写样式。
 
 **你将学习的：**

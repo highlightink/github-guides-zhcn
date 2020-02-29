@@ -4,6 +4,8 @@ description: 阅读时间：约 10 分钟
 
 # 简介
 
+> _译自 [Mastering Issues](https://guides.github.com/features/issues/)_
+
 Issues 是跟踪项目任务、增强功能和错误的好方法。它们有点像电子邮件——除了可以与团队其他成员共享和讨论。大多数软件项目都有某种 bug 跟踪器。GitHub 的跟踪器称为 **Issues**，并且每个仓库都有相应的部分。
 
 ![&#x9AD8;&#x4EAE;&#x5BFC;&#x822A;&#x663E;&#x793A;](https://guides.github.com/features/issues/navigation-highlight.png)

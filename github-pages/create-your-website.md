@@ -1,7 +1,5 @@
 # 创建你的网站
 
-> 译自：[_Getting Started with GitHub Pages - Create Your Website_](https://guides.github.com/features/pages/#setup)\_\_
-
 [登录](https://github.com/login) 后，创建一个新的仓库开始使用。
 
 ![&#x65B0;&#x5EFA;&#x4ED3;&#x5E93;&#x6309;&#x94AE;](https://guides.github.com/features/pages/create-new-repo-button.png)

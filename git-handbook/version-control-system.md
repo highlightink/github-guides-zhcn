@@ -1,7 +1,5 @@
 # 什么是版本控制系统？
 
-> 译自 [_Git Handbook - What’s a version control system?_](https://guides.github.com/introduction/git-handbook/#version-control)
-
 #### 什么是版本控制系统？
 
 版本控制系统（或称 VCS）会跟踪人员和团队进行项目协作时的更改历史记录。随着项目的发展，团队可能会运行测试，修复错误并提交新代码，并确信任何版本都可以随时恢复。开发者可以查看项目历史记录以找出：

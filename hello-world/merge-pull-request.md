@@ -1,7 +1,5 @@
 # 合并拉取请求
 
-> 译自：[_Hello World - Step 5. Merge your Pull Request_](https://guides.github.com/activities/hello-world/#merge)\_\_
-
 最后一步，是时候将你的更改结合在一起——将你 `readme-edits` 分支合并到 `master` 分支中。
 
 1. 单击绿色按钮 **Merge pull request** 来将更改合并到 `master` 中。

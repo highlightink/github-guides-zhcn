@@ -1,7 +1,5 @@
 # 修改并提交更改
 
-> 译自：[_Hello World - Step 3. Make and commit changes_](https://guides.github.com/activities/hello-world/#commit)\_\_
-
 干得漂亮！现在，你正在 `readme-edits` 分支的代码视图，该分支是 `master` 的副本。我们来做一些编辑。
 
 在 GitHub，保存更改称为_提交_。每个提交都有一个关联的提交消息，该消息是解释为何进行特定更改的描述。提交消息可体现更改的历史记录，因此其他贡献者可以了解你已完成的工作和原因。

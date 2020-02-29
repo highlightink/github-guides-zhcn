@@ -1,7 +1,5 @@
 # 做一些修改
 
-> 译自：[_Getting Started with GitHub Pages - Making Changes_](https://guides.github.com/features/pages/#changes)\_\_
-
 你可能会做的第一件事是删除首页的默认标题，并向其添加更友好的信息。由于这是一个非常简单的更改——而且是第一次修改——在默认分支 `master` 上进行更改就可以了。
 
 通过在 **Code** 选项卡中导航到 `_config.yml` 文件。你可以单击铅笔图标来编辑文件。

@@ -1,7 +1,5 @@
 # 创建一个分支
 
-> 译自：[_Hello World - Step 2. Create a Branch_](https://guides.github.com/activities/hello-world/#branch)\_\_
-
 **分支**是同时在不同版本的仓库上工作的方式。
 
 默认情况下，你的仓库有一个名为 `master` 的分支，它被认为是标准分支。在提交到 `master` 之前，我们使用其他分支进行试验和编辑。
