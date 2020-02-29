@@ -1,5 +1,7 @@
 # 发起拉取请求
 
+> 译自：[_Hello World - Step 4. Open a Pull Request_](https://guides.github.com/activities/hello-world/#pr)\_\_
+
 干得漂亮！你在非 `master` 分支中做了更改，现在可以发起一个_拉取请求_。
 
 拉取请求是在 GitHub 上合作的核心。当你发起一个拉取请求，意味着你做出了更改而请求某人审核并提取你的贡献，并将其合并到他们的分支中。拉取请求会显示来自两个分支的_内容差异_。修改、新增和删减分别以绿色和红色显示。

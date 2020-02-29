@@ -1,5 +1,7 @@
 # 什么是 GitHub？
 
+> 译自：[_Hello World - What is GitHub?_](https://guides.github.com/activities/hello-world/#what)\_\_
+
 GitHub 是用于版本控制和协作的代码托管平台。它可以让你和其他人在任何地方协同工作。
 
 本教程讲解一些 GitHub 基本知识，如_仓库_，_分支_，_提交_和_拉取请求_。你将创建自己的 Hello World 仓库并学习 GitHub 的拉取请求工作流，这是一种流行的创建和审查代码的方法。
